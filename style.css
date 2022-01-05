@@ -4,6 +4,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .welcome{
     color: rgb(223, 138, 11);
@@ -38,4 +39,23 @@ section{
 .section1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream{
+    font-size: 40px;
+    color: rgb(255, 0, 128);
+}
+.dream2{
+    color: rgb(243, 9, 138);
+}
+.container2{
+    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 10ox;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.p{
+    padding-right: 200px;
 }
